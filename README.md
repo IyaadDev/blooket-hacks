@@ -1,6 +1,8 @@
 # Blooket Hacks
 This is a well-maintained, constantly updated, repo for blooket hacks.
 
+### Please star this repo so that we can reach more people!
+
 **Disclaimer: This repo is for educational purposes only**
 
 ## How to use the hacks
